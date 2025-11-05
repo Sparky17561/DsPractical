@@ -1,5 +1,4 @@
 
-````markdown
 # 🧠 Data Science + NLP Cheat Sheet
 
 > **Author:** Saiprasad Jamdar  
